@@ -1,0 +1,3 @@
+Text editor also may called screen editor.
+It is used to edit text.
+Example:notepad,vi etc.
